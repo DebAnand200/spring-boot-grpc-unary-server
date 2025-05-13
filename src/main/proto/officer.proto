@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package banking;
+package officer;
 
 option java_multiple_files = true;
 option java_package = "com.deb.spring_boot_grpc_unary_server.officer";
